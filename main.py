@@ -21,3 +21,6 @@ if collider_jogador.colliderect(collider_caixa):
     #faz voltar para posicao anterior q ele estava 
     pos_x = old_posx
     pos_Y = old_posy
+
+
+#colocar uma variavel para cada imagem q eu quero no mapa 
